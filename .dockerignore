@@ -1,4 +1,5 @@
 # .dockerignore
+.github/
 .venv/
 .vscode/
 tests/
